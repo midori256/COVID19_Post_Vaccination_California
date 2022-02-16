@@ -9,7 +9,7 @@ Some interesting findings:
 - The percentage of unvaccinated COVID cases (in unvaccinated population) are higher than the percent of vaccinated or boosted cases. Which means if you are unvaccinated, you have higher chance of getting COVID than vaccinated or boosted people.
 - Number of unvaccinated hospitalizations and deaths were always higher than vaccinated or boosted status.
 
-
+For more details, check the [Jupyter Notebook](https://github.com/midori256/COVID19_Post_Vaccination_California/blob/e883b0a7776fb479739b6c8c45d6ab1c45c5d100/data_analysis.ipynb)
 
 ![Trends in number of COVID cases by vaccination status](https://github.com/midori256/COVID19_Post_Vaccination_California/blob/1f5d63aa76b5430534c8c50e1327b44df03ebfe4/images/cases_trend_by_vax_status.png)
 
